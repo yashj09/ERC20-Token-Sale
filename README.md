@@ -4,8 +4,8 @@
 This repository contains smart contracts for the GTX Token (ERC-20) and its associated token sale. The contracts are built using OpenZeppelin v5 libraries and include features for governance, role-based access control, and anti-sniper mechanisms.
 
 ## Contracts
-#### GTXToken-contract address: 0x02b19d3db64c44c3D839eC3a182A21659dcA810E
-#### TokenSale-contract address: 0xB09157B2C3ec65bEef9a90Cd2D1Daca5eeCfc1B9
+#### GTXToken-contract address: 0x02b19d3db64c44c3D839eC3a182A21659dcA810E [Verify on Etherscan](https://sepolia.etherscan.io/address/0x02b19d3db64c44c3D839eC3a182A21659dcA810E)
+#### TokenSale-contract address: 0xB09157B2C3ec65bEef9a90Cd2D1Daca5eeCfc1B9 [Verify on Etherscan](https://sepolia.etherscan.io/address/0xB09157B2C3ec65bEef9a90Cd2D1Daca5eeCfc1B9)
 ### GTXToken
 
 The `GTXToken` contract is an ERC-20 token with the following features:
