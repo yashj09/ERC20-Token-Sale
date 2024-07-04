@@ -27,3 +27,4 @@ dist-ssr
 
 artifacts
 cache
+/ignition/deployments
